@@ -3,6 +3,7 @@ package br.com.moedas.adapters.in.web;
 import br.com.moedas.adapters.in.web.dto.MoedasResponseDTO;
 import br.com.moedas.adapters.in.web.mapper.MoedasMapperDomainToDTO;
 import br.com.moedas.domain.port.in.ListarMoedasUseCase;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
