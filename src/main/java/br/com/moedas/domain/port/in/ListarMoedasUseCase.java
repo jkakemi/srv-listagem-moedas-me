@@ -1,4 +1,4 @@
-package br.com.moedas.port.in;
+package br.com.moedas.domain.port.in;
 
 import br.com.moedas.domain.model.Moedas;
 

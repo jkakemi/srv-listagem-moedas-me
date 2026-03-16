@@ -3,7 +3,7 @@ package br.com.moedas.adapters.out.persistence;
 import br.com.moedas.adapters.out.persistence.entity.MoedasEntity;
 import br.com.moedas.adapters.out.persistence.mapper.MoedasMapper;
 import br.com.moedas.domain.model.Moedas;
-import br.com.moedas.port.out.MoedasRepository;
+import br.com.moedas.domain.port.out.MoedasRepository;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

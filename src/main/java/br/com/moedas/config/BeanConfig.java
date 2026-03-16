@@ -1,8 +1,8 @@
 package br.com.moedas.config;
 
 import br.com.moedas.application.usecase.ListarMoedasUseCaseImpl;
-import br.com.moedas.port.in.ListarMoedasUseCase;
-import br.com.moedas.port.out.MoedasRepository;
+import br.com.moedas.domain.port.in.ListarMoedasUseCase;
+import br.com.moedas.domain.port.out.MoedasRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

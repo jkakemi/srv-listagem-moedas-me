@@ -1,8 +1,8 @@
 package br.com.moedas.application.usecase;
 
 import br.com.moedas.domain.model.Moedas;
-import br.com.moedas.port.in.ListarMoedasUseCase;
-import br.com.moedas.port.out.MoedasRepository;
+import br.com.moedas.domain.port.in.ListarMoedasUseCase;
+import br.com.moedas.domain.port.out.MoedasRepository;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package br.com.moedas.port.out;
+package br.com.moedas.domain.port.out;
 
 import br.com.moedas.domain.model.Moedas;
 
